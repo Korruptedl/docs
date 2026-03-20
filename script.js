@@ -236,7 +236,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "I've noticed it's a rare and beautiful thing to find someone I can open my soul to, someone who truly accpets me as I am, I've spent what feels like ages wanting to move past who I've been, but with you I finally feel like I can start again.",
+    "I've noticed it's a rare and beautiful thing to find someone I can open my soul to, someone who truly accepts me as I am, I've spent what feels like ages wanting to move past who I've been, but with you I finally feel like I can start again.",
     "\"Yours Truly, Korrupted.\""
   ];
   let bioText = '';
